@@ -100,7 +100,7 @@
     "update-notifier": "^5.1.0",
     "url-loader": "^4.1.1",
     "validate-npm-package-name": "^4.0.0",
-    "webpack": "^4.44.2",
+    "webpack": "^5.0.0",
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-dev-server": "^4.9.0",
     "webpack-fix-style-only-entries": "^0.6.1",
