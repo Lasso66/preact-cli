@@ -55,7 +55,7 @@
     "browserslist": "^4.20.3",
     "compression-webpack-plugin": "^6.1.1",
     "console-clear": "^1.0.0",
-    "copy-webpack-plugin": "^6.4.0",
+    "copy-webpack-plugin": "^13.0.0",
     "critters-webpack-plugin": "^2.5.0",
     "cross-spawn-promise": "^0.10.1",
     "css-loader": "^5.2.7",
